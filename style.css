@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #quizContainer {
+    width: 500px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  #question, #answers, #result {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
