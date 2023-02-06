@@ -1,23 +1,71 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-  }
-  
-  #quizContainer {
+    background-image: url("./pics/DALL·E\ 2023-02-05\ quiz.jpg");
+    background-size: cover;
+}
+
+.navbar {
+    background-color: transparent;
+    font-size: 23px;
+}
+
+section {
+    padding-top: 170px;
+}
+
+/* .container {
+    display: flex;
+    /* flex-wrap: wrap; */
+/* flex-direction: row;
+    height: 190vh; */
+
+
+.col {
+    flex: 1;
+}
+
+.row {
+    flex: 1;
+}
+
+.middle-opacity {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 25px, 25px;
+}
+
+.footer {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer_p a {
+    color: white;
+}
+
+.navbar-nav.me-auto.mb-2.mb-lg-0 li a {
+    color: white;
+}
+
+#quizContainer {
     width: 500px;
     margin: 0 auto;
     text-align: left;
-  }
-  
-  #question, #answers, #result {
-    margin: 20px;
-  }
-  
-  button {
+}
+
+#question,
+#answers,
+#result {
+    margin: 35px;
+}
+
+button {
     padding: 10px 20px;
     margin-top: 20px;
-    background-color: lightblue;
+    background-color: rgb(118, 210, 252);
     border: none;
     border-radius: 5px;
     cursor: pointer;
-  }
+}
