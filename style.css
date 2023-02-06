@@ -12,6 +12,7 @@ body {
 
 section {
     padding-top: 170px;
+  
 }
 
 /* .container {
@@ -48,12 +49,22 @@ section {
 .navbar-nav.me-auto.mb-2.mb-lg-0 li a {
     color: white;
 }
-
+.contact {
+    color: white;
+    width: 700px;
+    /* margin: auto auto; */
+    text-align: left;
+    /* position: absolute; */
+    /* width: 100%; */
+    padding-left: 500px;
+    font-size: 20px;
+}
 #quizContainer {
     width: 500px;
     margin: 0 auto;
     text-align: left;
 }
+
 
 #question,
 #answers,
@@ -68,4 +79,11 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.input {
+    width:350px;
+}
+.about_p {
+    color: white;
 }
