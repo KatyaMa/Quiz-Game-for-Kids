@@ -12,13 +12,13 @@ body {
 
 .navbar {
     background-color: transparent;
-    font-size: 23px;
+    font-size: 20px;
 }
 
-section {
+/* section {
     padding-top: 150px;
   
-}
+} */
 
 /* .container {
     display: flex;
