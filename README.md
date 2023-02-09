@@ -1,6 +1,7 @@
 SBA
 Ekaterina Machneva
 
+Demo: https://katyama.github.io/SBA/index.html
 Link to my GitHub account:  https://github.com/KatyaMa/SBA
 
 Quiz Game for Kids
