@@ -3,6 +3,11 @@ body {
     text-align: center;
     background-image: url("./pics/DALL·E\ 2023-02-05\ quiz.jpg");
     background-size: cover;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
 }
 
 .navbar {
@@ -84,6 +89,29 @@ button {
 .input {
     width:350px;
 }
-.about_p {
-    color: white;
-}
+
+.about {
+    max-width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .about-img {
+    max-width: auto;
+    height: auto;
+    /* margin-bottom: 20px; */
+  }
+  
+  .about_p {
+    font-size: 18px;
+    text-align: center;
+  }
+
+
+
+
+  
+ 
