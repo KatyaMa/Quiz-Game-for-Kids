@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     text-align: center;
     background-image: url("./pics/DALL·E\ 2023-02-05\ quiz.jpg");
     background-size: cover;
@@ -16,7 +16,7 @@ body {
 }
 
 section {
-    padding-top: 170px;
+    padding-top: 150px;
   
 }
 
