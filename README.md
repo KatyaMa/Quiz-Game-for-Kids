@@ -1,7 +1,7 @@
 #### Ekaterina Machneva
 
-- Demo: https://katyama.github.io/SBA/index.html
 - Link to my GitHub account:  https://github.com/KatyaMa/SBA
+- Link to my LinkedIn account:  https://www.linkedin.com/in/ekaterina-machneva-109915196//SBA
 
 # Quiz Game for Kids
 This is a simple quiz game built using HTML, CSS and JavaScript. The questions are fetched from Open Trivia Database (opentdb.com) API and the game is designed to be easy for kids to play.
