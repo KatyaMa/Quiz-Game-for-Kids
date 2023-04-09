@@ -23,3 +23,4 @@ The JavaScript file makes use of fetch API to retrieve the questions from opentd
 
 
 
+<img width="1051" alt="Screen Shot 2023-04-08 at 6 19 59 PM" src="https://user-images.githubusercontent.com/71144178/230752247-c27ba41f-3460-44e0-86fc-b6ceb1af8367.png">
